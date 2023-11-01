@@ -1,3 +1,2 @@
-👋 Hi there, Im Hery 
-Languages and Tools
+<Strong>Hi There </Strong>
 
