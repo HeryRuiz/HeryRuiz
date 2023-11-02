@@ -17,13 +17,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  - <span>CSS: Cascading Style Sheets</span> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  - <span>CSS: Cascading Style Sheets</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   
-  - <span>HTML: HyperText Markup Language</span> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  - <span>HTML: HyperText Markup Language</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
-- <span>JavaScript</span> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+- <span>JavaScript</span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-- <span>React</span> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/d904f12e-126a-46e4-a25a-456755450428" alt="React" width="40" height="40"></a>
+- <span>React</span> <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/d904f12e-126a-46e4-a25a-456755450428" alt="React" width="40" height="40">
 
 </p>
 
