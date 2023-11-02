@@ -1,5 +1,5 @@
+![image](https://github.com/HeryRuiz/HeryRuiz/assets/149633842/2578e000-c505-4703-81c1-743c68743197)
 
-![image](https://github.com/HeryRuiz/HeryRuiz/assets/149633842/827c3905-75b3-4977-9ebc-a7ab4ac7805c)
 
 <h1 align="center">Hi 👋, I'm Hery Ruiz</h1>
 
