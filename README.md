@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Hery Ruiz</h1>
 <h3 align="center">A Front-End Web Developer from South Hadley, MA</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 - 👨‍💻 All of my projects are available at <a href="#"><strong>Here</strong></a>
@@ -21,9 +21,8 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
-
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/d904f12e-126a-46e4-a25a-456755450428" alt="React" width="40" height="40"></a>
 
 </p>
+
