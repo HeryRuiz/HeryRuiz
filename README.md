@@ -2,7 +2,8 @@
 ![image](https://github.com/HeryRuiz/HeryRuiz/assets/149633842/827c3905-75b3-4977-9ebc-a7ab4ac7805c)
 
 <h1 align="center">Hi 👋, I'm Hery Ruiz</h1>
-&nbsp
+
+
 <h3 align="center">A Front-End Web Developer from South Hadley, MA</h3>
 &nbsp
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
