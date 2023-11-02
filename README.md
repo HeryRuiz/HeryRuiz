@@ -17,13 +17,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-  - <span>CSS: Cascading Style Sheets</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  
-  - <span>HTML: HyperText Markup Language</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-
-- <span>JavaScript</span><img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/9887b0f4-b3e4-4dfe-8026-318411e1ac98" alt="javascript" width="48" height="48"/>
-
-- <span>React</span> <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/d904f12e-126a-46e4-a25a-456755450428" alt="React" width="40" height="40">
+  - CSS: Cascading Style Sheets <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
+  - HTML: HyperText Markup Language <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+  - JavaScript <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/9887b0f4-b3e4-4dfe-8026-318411e1ac98" alt="javascript" width="30" height="30"/>
+  - React <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/d904f12e-126a-46e4-a25a-456755450428" alt="React" width="25" height="25">
 
 
 </p>
