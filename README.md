@@ -21,9 +21,10 @@
   
   - <span>HTML: HyperText Markup Language</span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
-- <span>JavaScript</span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+- <span>JavaScript</span><img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/9887b0f4-b3e4-4dfe-8026-318411e1ac98" alt="javascript" width="48" height="48"/>
 
 - <span>React</span> <img src="https://github.com/HeryRuiz/HeryRuiz/assets/149633842/d904f12e-126a-46e4-a25a-456755450428" alt="React" width="40" height="40">
+
 
 </p>
 
