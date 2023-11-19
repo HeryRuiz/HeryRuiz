@@ -1,7 +1,7 @@
-Hi! My name is Hery Ruiz 🖖
+Hi! My name is Hery Ruiz 🫶
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in South Hadley, MA.
+🗺️  I am a Front-End Developer based in South Hadley, MA.
 <br/>
 
 ### Skills
