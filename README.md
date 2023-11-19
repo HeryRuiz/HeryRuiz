@@ -6,7 +6,6 @@
 
 <h3 align="center">A Front-End Web Developer from South Hadley, MA</h3>
 &nbsp
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 
