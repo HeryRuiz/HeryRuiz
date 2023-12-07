@@ -11,7 +11,7 @@ Hi! My name is Hery Ruiz 👋
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/heryruizdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/heryruizdev/" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
