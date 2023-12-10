@@ -16,4 +16,3 @@ Hi! My name is Hery Ruiz 👋
   </a>
 </div>
 
-https://github-readme-stats.vercel.app/api?username
