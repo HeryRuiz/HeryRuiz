@@ -1,7 +1,7 @@
 Hi! My name is Hery Ruiz 👋
 ========================================================================================================================================
 
-🗺️  I am a Front-End Developer based in Massachussets, USA.
+🗺️  I am a Front-End Developer based in Massachusetts, USA.
 <br/>
 
 ### Skills
