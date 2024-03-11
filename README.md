@@ -5,7 +5,7 @@ Hi! My name is Hery Ruiz ✌️
 <br/>
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)
 <br/>
 
 ### Socials
