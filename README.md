@@ -1,7 +1,7 @@
 Hi! My name is Hery Ruiz ✌️
 ========================================================================================================================================
 
-🗣️ I’m a Front-End Developer hailing from Massachusetts. Whether it’s designing pixel-perfect interfaces or optimizing code for performance, I thrive on the challenge of bringing ideas to life! 🌟🌱📚
+🗣️ I’m a Front-End Developer from Massachusetts. Whether it’s designing pixel-perfect interfaces or optimizing code for performance, I thrive on the challenge of bringing ideas to life! 🌟🌱📚
 <br/>
 
 ### Skills
