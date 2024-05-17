@@ -5,7 +5,7 @@ I’m a Front-End Developer from Massachusetts. Whether it’s designing pixel-p
 <br/>
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
 <br/>
 
 ### Socials
